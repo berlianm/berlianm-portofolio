@@ -1,0 +1,4 @@
+This project focuses on finding the values of 𝑥 and 𝑦 that minimize a certain function using Genetic Algorithm and implementing it in a computer program. Genetic Algorithm is a search technique in computer science used to find optimization solutions with evolutionary biology techniques such as inheritance, mutation, natural selection, and recombination. One of the main functions of GA is to find the minimum value of a complex mathematical function.
+
+
+[link: https://github.com/berlianm/Genetic-Algorithm/blob/main/Coding%20GA_Kelompok07_IF4410.ipynb]

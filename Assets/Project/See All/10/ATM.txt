@@ -1,0 +1,4 @@
+The case study focuses on the simulation of queuing systems in bank services, specifically on the use of ATM (Automated Teller Machine) machines. We assume that there is one ATM machine that serves a number of customers. Customers come in certain time intervals to perform their transactions/needs. We designed this simulation to understand the performance of customer queues using ATM machines, measuring the average waiting time of customers, as well as the average number of customers in the queue over a certain period of time. Thus, we can analyze and understand how the queuing system in this bank service operates and how efficient the system is in serving customers.
+
+
+[link: https://github.com/berlianm/Implementation-Queueing-System/blob/main/Queueing_System_with_MM1.ipynb]

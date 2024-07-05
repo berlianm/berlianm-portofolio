@@ -1,0 +1,14 @@
+The HUMIC Survey Dashboard is a digital web platform designed to collect, manage and analyze survey data related to user satisfaction. This platform is used by HUMIC Research Center agencies to obtain feedback from users on various aspects of their services.
+
+Key Features:
+-Interactive Survey Form: 
+Users easily fill out surveys through an intuitive and user-friendly interface, helping to ensure that respondents can provide their input more effectively and efficiently.
+
+-Attractive Visual Display:
+The dashboard displays the survey results in an attractive and easy-to-understand visual form. Graphs, charts, and other data visualizations help the HUMIC team to quickly analyze and understand the feedback provided by users.
+
+-User Satisfaction Data Collection and Processing:
+Collect data from survey forms and process it to produce a complete and in-depth report. This data becomes a valuable source of information that the HUMIC team can use to improve their service quality based on user feedback.
+
+
+[link: https://github.com/berlianm/Dashboard-Survey-HUMIC/tree/master]

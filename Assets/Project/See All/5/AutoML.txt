@@ -1,0 +1,4 @@
+Technological developments have resulted in a surge in data processing, artificial intelligence, and computing, enabling the emergence of Automated Machine Learning (AutoML) that automates the development of machine learning models. AutoML can be applied to Wisconsin Breast Cancer (Diagnostic) data to accelerate breast cancer detection. Using TPOT which utilizes Genetic Algorithm to find the best pipeline, data pre-processing such as data cleansing is required. Experimental results show that Default TPOT and Limit Time TPOT achieve 99% accuracy, but Limit Time TPOT is about 10 minutes faster in finding the best pipeline.
+
+
+[link: https://github.com/berlianm/Automated-Machine-Learning/blob/main/AutoML_Kelompok_29.ipynb]

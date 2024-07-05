@@ -1,0 +1,4 @@
+Currently, traditional constraints in the routing process are related to rigid configurations and depend on specific vendor devices. This makes it difficult to change network configurations flexibly and efficiently. Mininet, as an SDN network emulator, offers a solution by enabling large and flexible network simulation on a laptop, with configuration capabilities similar to physical devices and customizable speed and delay settings. Although statistical results and iPerf tests did not show any significant differences, ping tests between hosts showed that increasing buffers can cause a slowdown in response time.
+
+
+[link: https://github.com/berlianm/Simulasi-Mininet---Jaringan-Komputer/blob/main/1301204378_Tubes.py]

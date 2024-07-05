@@ -1,0 +1,4 @@
+Context Free Grammar (CFG) is a method for generating strings in a language with variable symbols representing the underived parts of the string. Unlike regular grammars, CFG allows underived parts to occur anywhere in the string. Once the derivation is complete, all the underived parts are replaced by strings from the set of terminal symbols. CFG is used as a basis in the parser generation or syntax analysis process. Parts of syntax in compilers are often defined using context-free grammars. In this project, a simple CFG is created for the representation of rules or sentence syntax in Batak language.
+
+
+[link: https://github.com/berlianm/Lexical-Analysis-Parser/blob/main/Kelompok%2014%20-%20Parser.py]
